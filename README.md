@@ -1,2 +1,2 @@
 # starbugs-cucumber
-Aplicação prática BDD, Gherkin e Testes Automatizados
+Aplicação prática do Curso BDD, Gherkin e Testes Automatizados da QAx.
